@@ -15,10 +15,9 @@
 #### - ⚡ Fun fact: I love dbt 
 
 
-
 ## Languages & Tools
 <p align="left"> 
-#### language:  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
         
 #### -   business intelligence: Mode, Tableau, Power BI,
         
@@ -26,7 +25,7 @@
         
 #### -  databases: Postgres, mySql, Microsoft SQL Server, Google Big Query,
         
-#### -  version control: Git,
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
         
 #### -  machine learning: market basket analysis, supervised learning, unsupervised learning, recency frequency monetary analysis
 
