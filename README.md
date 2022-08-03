@@ -18,17 +18,17 @@
 
 ## Languages & Tools
 
-#### - languages: python,
+#### -  languages: python,
         
-#### -  business intelligence: Mode, Tableau, Power BI,
+#### -   business intelligence: Mode, Tableau, Power BI,
         
-#### - data transformation and analysis: dbt, Jinja, Pandas, SQL,
+#### -  data transformation and analysis: dbt, Jinja, Pandas, SQL,
         
-#### - databases: Postgres, mySql, Microsoft SQL Server, Google Big Query,
+#### -  databases: Postgres, mySql, Microsoft SQL Server, Google Big Query,
         
-#### - version control: Git,
+#### -  version control: Git,
         
-#### - machine learning: market basket analysis, supervised learning, unsupervised learning, recency frequency monetary analysis
+#### -  machine learning: market basket analysis, supervised learning, unsupervised learning, recency frequency monetary analysis
 
 
 ## Connect With Me
