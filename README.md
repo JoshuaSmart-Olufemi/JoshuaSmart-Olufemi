@@ -3,16 +3,16 @@
 ## I'm Joshua Olufemi 
 
 ## Analytics Engineer & Technical Writer from Nigeria looking for remote/relocation opportunities 👨‍💻
-## - 🔭 I’m currently working on ...
-## - 🌱 I’m currently learning Airflow
-## - 👯 I’m looking to collaborate on dbt-related or analytics engineering opportunities
-## - 🤝 I’m looking for help with Analytics Engineering or Data Analyst roles
-## - 💬 Ask me about Soft skills, SQL, dbt
-## - 📫 How to reach me: joshuasmartolufemi@gmail.com
-## - 👨‍💻 All of my articles on data related topics are available at : https://docs.google.com/spreadsheets/d/1B8ydCodl8Tzoc5n0_pMJo86yjAG32QJFgE0PeIKm-Ns/edit?usp=sharing
-## - 📄 Know about my experiences @ https://docs.google.com/document/d/1To0XCdgDjfi6YdSrO1na9Q6cRYZ-Wxp3/edit?usp=sharing&ouid=114924921011070127495&rtpof=true&sd=true
+### - 🔭 I’m currently working on ...
+### - 🌱 I’m currently learning Airflow
+### - 👯 I’m looking to collaborate on dbt-related or analytics engineering opportunities
+### - 🤝 I’m looking for help with Analytics Engineering or Data Analyst roles
+### - 💬 Ask me about Soft skills, SQL, dbt
+### - 📫 How to reach me: joshuasmartolufemi@gmail.com
+### - 👨‍💻 All of my articles on data related topics are available at : https://docs.google.com/spreadsheets/d/1B8ydCodl8Tzoc5n0_pMJo86yjAG32QJFgE0PeIKm-Ns/edit?usp=sharing
+### - 📄 Know about my experiences @ https://docs.google.com/document/d/1To0XCdgDjfi6YdSrO1na9Q6cRYZ-Wxp3/edit?usp=sharing&ouid=114924921011070127495&rtpof=true&sd=true
 - 😄 Pronouns: ...
-## - ⚡ Fun fact: I love dbt
+### - ⚡ Fun fact: I love dbt
 
 [![](https://img.shields.io/badge/LinkedIn-joshua-smart-olufemi-blue)](https://www.linkedin.com/in/joshua-smart-olufemi/)
 [![](https://img.shields.io/badge/Gmail-joshuasmartolufemi%40gmail.com-green)](mailto:joshuasmartolufemi@gmail.com)
