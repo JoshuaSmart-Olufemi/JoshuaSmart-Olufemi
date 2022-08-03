@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## नमस्ते 🙏, I'm Joshua Olufemi 
+## I'm Joshua Olufemi 
 
 ## Analytics Engineer & Technical Writer from Nigeria looking for remote/relocation opportunities 👨‍💻
 ## - 🔭 I’m currently working on ...
@@ -14,13 +14,8 @@
 - 😄 Pronouns: ...
 ## - ⚡ Fun fact: I love dbt
 
-[![website](./img/twitter-light.svg)](https://twitter.com/JoshOlufemi/#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/JoshOlufemi/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/joshua-smart-olufemi/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/joshua-smart-olufemi/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![](https://img.shields.io/badge/Gmail-joshuasmartolufemi%40gmail.com-red)](mailto:joshuasmartolufemi@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-joshua-smart-olufemi-blue)](https://www.linkedin.com/in/joshua-smart-olufemi/)
+[![](https://img.shields.io/badge/Gmail-joshuasmartolufemi%40gmail.com-green)](mailto:joshuasmartolufemi@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
