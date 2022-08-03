@@ -17,8 +17,8 @@
 
 
 ## Languages & Tools
-
-#### -  languages: python,
+<p align="left"> 
+#### language:  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
         
 #### -   business intelligence: Mode, Tableau, Power BI,
         
