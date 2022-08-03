@@ -40,3 +40,8 @@ const ashraf = {
 ```
 ## Connect With Me
 
+### Twitter: @JoshOlufemi
+
+### LinkedIn: Joshua Olufemi
+
+### TopCoder: JoshuaSmart
