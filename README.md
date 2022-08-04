@@ -31,8 +31,8 @@
 
 ## Connect With Me
 
-### Twitter: @JoshOlufemi
+#### Twitter: @JoshOlufemi
 
-### LinkedIn: Joshua Olufemi
+#### LinkedIn: Joshua Olufemi
 
-### TopCoder: JoshuaSmart
+#### TopCoder: JoshuaSmart
