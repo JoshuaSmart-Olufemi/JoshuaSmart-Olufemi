@@ -4,8 +4,8 @@
 
 
 ## 🙋‍♂️ About Me
-#### - 🔭 I’m currently working on ...
 #### - 🌱 I’m currently learning Airflow
+#### - 🔭 I’m currently need help working on a project about Monthly Recurring Revenue and a few related metrics
 #### - 👯 I’m looking to collaborate on dbt-related or analytics engineering opportunities
 #### - 🤝 I’m looking for help with Analytics Engineering or Data Analyst roles
 #### - 💬 Ask me about Soft skills, SQL, dbt
