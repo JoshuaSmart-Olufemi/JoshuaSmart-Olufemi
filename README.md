@@ -4,7 +4,7 @@
 
 
 ## 🙋‍♂️ About Me
-#### - 🌱 I’m currently learning more about Lightdash 
+#### - 🌱 I’m currently learning more about Lightdash, an open-source alternative to Looker
 #### - 🔭 I’m currently need help working on a project about Monthly Recurring Revenue and a few related metrics
 #### - 👯 I’m looking to collaborate on dbt-related or analytics engineering opportunities
 #### - 🤝 I’m looking for help with Analytics Engineering or Data Analyst roles
