@@ -16,7 +16,6 @@
 
 
 ## Languages & Tools
-#### -   languages: python
         
 #### -   business intelligence: Mode, Tableau, Power BI,
         
