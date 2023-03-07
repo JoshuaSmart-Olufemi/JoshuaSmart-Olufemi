@@ -17,13 +17,15 @@
 
 ## Languages & Tools
         
-#### -   business intelligence: Mode, Tableau, Power BI,
+#### -   business intelligence: Mode, Tableau, Power BI, Lightdash
         
 #### -  data transformation and analysis: dbt, Jinja, Pandas, SQL,
         
 #### -  databases: Postgres, mySql, Microsoft SQL Server, Google Big Query,
         
 #### -  version control: Git
+
+#### - data observability: Metaplane
         
 #### -  machine learning: market basket analysis, supervised learning, unsupervised learning, recency frequency monetary analysis
 
