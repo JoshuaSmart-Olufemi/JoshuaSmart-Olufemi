@@ -12,6 +12,7 @@
 #### - 📫 How to reach me: joshuasmartolufemi@gmail.com
 #### - 👨‍💻 All of my articles on data related topics are available @ : https://docs.google.com/spreadsheets/d/1B8ydCodl8Tzoc5n0_pMJo86yjAG32QJFgE0PeIKm-Ns/edit?usp=sharing
 #### - 📄 Know about my experiences @ : https://docs.google.com/document/d/1To0XCdgDjfi6YdSrO1na9Q6cRYZ-Wxp3/edit?usp=sharing&ouid=114924921011070127495&rtpof=true&sd=true
+#### - my youtube channel: https://www.youtube.com/@__datajosh__
 #### - ⚡ Fun fact: I love dbt 
 
 
